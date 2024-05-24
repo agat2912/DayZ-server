@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+    <message>
+        <deadline>360</deadline>
+        <text>Restart in #tmin minutes.</text>
+    </message>
+    <message>
+        <repeat>25</repeat>
+        <text>Check Discord for rules and contact with admin: https://discord.gg/DwRrM9k7/</text>
+    </message>
+        <message>
+        <repeat>15</repeat>
+        <text>Use weapons wisely and as a last resort.</text>
+    </message>
+        <message>
+        <repeat>11</repeat>
+        <text>Infected has a loot. Kill them.</text>
+    </message>
+     </message>
+        <message>
+        <repeat>45</repeat>
+        <text>Think before shoot.</text>
+    </message>
+    <message>
+        <delay>0</delay>
+        <onconnect>1</onconnect>
+        <text>Welcome to A1 hardcore survival! Join Discord: https://discord.gg/DwRrM9k7/</text>
+    </message>
+        <message>
+        <delay>350</delay>
+        <onconnect>1</onconnect>
+        <text>Restart in 10 minutes.</text>
+    </message>
+</messages>
