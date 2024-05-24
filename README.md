@@ -5,3 +5,4 @@ Differnces with Vanilla:
   4) decreased spawn of food at ground
   5) increased spawn of ammos at infected
   6) increased spawn of food at zombies
+  7) added small huntcam at Skalisty island
