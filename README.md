@@ -9,9 +9,9 @@ Differnces with Vanilla:
   7) added small huntcamp at Skalisty island
 ----
 1.27 Sakhal:
-helicrashes
-airdrops
-industrial infected has buliding loot
-military infected has more loot
-cars are fully assembled
-mags are fully loaded
+helicrashes;
+airdrops;
+industrial infected has buliding loot;
+military infected has more loot;
+cars are fully assembled;
+mags are fully loaded;
